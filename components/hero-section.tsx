@@ -45,7 +45,7 @@ export function HeroSection() {
               Graduado em Análise e Desenvolvimento de Sistemas com experiência em desenvolvimento e sustentação de
               aplicações utilizando <span className="text-primary font-medium">Python</span> e{" "}
               <span className="text-primary font-medium">Java</span>. Atualmente DevOps Pleno na{" "}
-              <span className="text-secondary font-medium">Vivo (Telefônica Brasil)</span>, especialista em automação de
+              <span className="text-secondary font-medium">Vivo (Telefônica Brasil)</span>, com foco em automação de
               processos, microserviços e integração de sistemas em ambientes corporativos.
             </p>
           </div>
